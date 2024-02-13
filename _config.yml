@@ -1,4 +1,4 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Сайт-портфолио для выкладки работ по различным дисциплинам
 description: Сайт для демонстрации лабораторных и самостоятельных работ
-show_downloads: true
+#show_downloads: true
